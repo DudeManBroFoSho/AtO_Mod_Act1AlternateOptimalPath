@@ -1,8 +1,0 @@
-{
-    "NewGameObjectID": "bloodknight",
-    "BaseGameObjectID": "lancer",
-    "SpriteToUse": "skinBloodKnight",
-    "ScaleX": 1.2,
-    "ScaleY": 1.2,
-    "Flip": false
-}

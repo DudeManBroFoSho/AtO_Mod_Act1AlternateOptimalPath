@@ -1,8 +1,0 @@
-{
-    "NewGameObjectID": "mistknight",
-    "BaseGameObjectID": "greatfrontliner",
-    "SpriteToUse": "skinMistKnight",
-    "ScaleX": 1.2,
-    "ScaleY": 1.2,
-    "Flip": false
-}
