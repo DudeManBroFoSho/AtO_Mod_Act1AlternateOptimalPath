@@ -13,7 +13,7 @@ This is an Across the Obelisk mod for Adventure Mode that contains:
 * 28 new custom events with 61 unique replies
 * Content balanced around M16 - if it feels too hard at lower madness, please provide feedback!
 
-It is dependent on Obeliskial Options, developed by StiffMeds:
+It is dependent on the Obeliskial Options mod, developed by StiffMeds, which is available at these two locations: 
 
-https://github.com/stiffmeds/Obeliskial-Options/tree/master#obeliskial-options
-https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Options/
+1. https://github.com/stiffmeds/Obeliskial-Options/tree/master#obeliskial-options
+2. https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Options/
