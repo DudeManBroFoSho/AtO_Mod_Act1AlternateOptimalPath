@@ -1,3 +1,7 @@
+# Installation
+
+Check the "Install Mods" section here: https://devcode.secretsisters.gay/AtO_How_To
+
 # Alternate Act 1 Optimal Path
 
 This is an Across the Obelisk mod for Adventure Mode that contains:
