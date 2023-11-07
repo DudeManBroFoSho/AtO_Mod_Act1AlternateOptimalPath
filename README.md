@@ -5,7 +5,7 @@ This is an Across the Obelisk mod for Adventure Mode that is dependent on the Ob
 1. https://github.com/stiffmeds/Obeliskial-Options/tree/master#obeliskial-options
 2. https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Options/
 
-Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obleskial Options and the Alternate Act 1 Optimal Path mod.
+Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obeliskial Options and the Alternate Act 1 Optimal Path mod.
 
 # Alternate Act 1 Subzone
 
