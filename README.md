@@ -9,7 +9,7 @@ __Github__
 __Thunderstore__
 1. https://across-the-obelisk.thunderstore.io/package/ (hosts both Obeliskial Essentials and Obeliskial Content)
 
-Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obeliskial Options and the Alternate Act 1 Optimal Path mod.
+Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obeliskial Essentials, Obeliskial Content, and the Act 1 Alternate Subzone mod.
 
 # Alternate Act 1 Subzone
 
