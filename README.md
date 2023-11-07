@@ -2,10 +2,12 @@
 
 This is an Across the Obelisk mod for Adventure Mode that is dependent on the Obeliskial Essentials and Obeliskial Content mods, developed by StiffMeds, which are available the following locations: 
 
+__Github__
 1. [Obeliskial Essentials](https://github.com/stiffmeds/Obeliskial-Essentials)
 2. [Obeliskial Content](https://github.com/stiffmeds/Obeliskial-Content) (dependent on Obeliskial Options)
-   
-3. https://across-the-obelisk.thunderstore.io/package/ (hosts both Obeliskial Essentials and Obeliskial Content)
+
+__Thunderstore__
+1. https://across-the-obelisk.thunderstore.io/package/ (hosts both Obeliskial Essentials and Obeliskial Content)
 
 Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obeliskial Options and the Alternate Act 1 Optimal Path mod.
 
