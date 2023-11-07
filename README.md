@@ -1,6 +1,11 @@
 # Installation
 
-Check the "Install Mods" section here: https://devcode.secretsisters.gay/AtO_How_To
+This is an Across the Obelisk mod for Adventure Mode that is dependent on the Obeliskial Options mod, developed by StiffMeds, which is available at these two locations: 
+
+1. https://github.com/stiffmeds/Obeliskial-Options/tree/master#obeliskial-options
+2. https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Options/
+
+Check the "Install Mods" section [here](https://devcode.secretsisters.gay/AtO_How_To) for instructions on how to install Obleskial Options and the Alternate Act 1 Optimal Path mod.
 
 # Alternate Act 1 Optimal Path
 
@@ -17,7 +22,3 @@ This is an Across the Obelisk mod for Adventure Mode that contains:
 * 28 new custom events with 61 unique replies
 * Content balanced around M16 - if it feels too hard at lower madness, please provide feedback!
 
-It is dependent on the Obeliskial Options mod, developed by StiffMeds, which is available at these two locations: 
-
-1. https://github.com/stiffmeds/Obeliskial-Options/tree/master#obeliskial-options
-2. https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Options/
