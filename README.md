@@ -1,6 +1,6 @@
 # Alternate Act 1 Optimal Path
 
-This is an Across the Obelisk mod that contains:
+This is an Across the Obelisk mod for Adventure Mode that contains:
 
 * A new “optimal” route through Act 1 that offers equivalent power progression to the traditional Betty -> Hatch -> Yogger route.
 * The alternative “optimal” route begins at the “The Fishing Contest” event which spawns at the southern path lake node in Senenthia. That event can now start a quest for…
