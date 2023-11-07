@@ -1,6 +1,6 @@
 # Installation
 
-This is an Across the Obelisk mod for Adventure Mode that is dependent on the Obeliskial Essentials and Obeliskial Content mods, developed by StiffMeds, which are available the following locations: 
+This is an Across the Obelisk mod for Adventure Mode that is dependent on the Obeliskial Essentials and Obeliskial Content mods, developed by StiffMeds, which are available at the following locations: 
 
 __Github__
 1. [Obeliskial Essentials](https://github.com/stiffmeds/Obeliskial-Essentials)
