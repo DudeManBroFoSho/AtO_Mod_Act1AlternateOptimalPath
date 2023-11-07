@@ -4,7 +4,7 @@ This is an Across the Obelisk mod for Adventure Mode that is dependent on the Ob
 
 __Github__
 1. [Obeliskial Essentials](https://github.com/stiffmeds/Obeliskial-Essentials)
-2. [Obeliskial Content](https://github.com/stiffmeds/Obeliskial-Content) (dependent on Obeliskial Options)
+2. [Obeliskial Content](https://github.com/stiffmeds/Obeliskial-Content) (dependent on Obeliskial Essentials)
 
 __Thunderstore__
 1. https://across-the-obelisk.thunderstore.io/package/ (hosts both Obeliskial Essentials and Obeliskial Content)
