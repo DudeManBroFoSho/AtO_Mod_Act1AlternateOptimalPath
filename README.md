@@ -1,6 +1,6 @@
 # Act 1 Alternate Subzone
 
-This is an Across the Obelisk mod for Adventure Mode that adds a new subzone in Senenthia as an alternative to the “optimal” Hatch route. 
+This is an Across the Obelisk mod for Adventure Mode that adds a new subzone in Senenthia as an alternative to the “optimal” Hatch route. 
 
 ## Installation (fast - includes dependencies)
 
