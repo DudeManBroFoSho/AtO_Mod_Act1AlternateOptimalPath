@@ -24,11 +24,7 @@ This is an Across the Obelisk mod for Adventure Mode that adds a new subzone in 
 * A new “optimal” route through Act 1 that offers equivalent power progression to the traditional Betty -> Hatch -> Yogger route.
 * The alternative “optimal” route begins at the “The Fishing Contest” event which spawns at the southern path lake node in Senenthia. That event is now rare (blue) and can now start a quest for…
 * A new subzone! Which contains…
-<<<<<<< HEAD
   * New subzone art
-=======
-* New subzone art
->>>>>>> f345ee1b95244f0960a81e7b583b17b014215ba0
   * 9 new enemies with custom skins and 171 new monster cards (to represent all difficulty levels)
   * 3 rotating minibosses (12 new enemies in total!) in the new subzone, each with custom skins and abilities.
   * 3 new items
