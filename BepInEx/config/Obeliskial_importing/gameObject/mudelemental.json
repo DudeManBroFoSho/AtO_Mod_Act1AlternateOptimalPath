@@ -1,8 +1,0 @@
-{
-    "NewGameObjectID": "mudelemental",
-    "BaseGameObjectID": "livingrock",
-    "SpriteToUse": "skinMudElemental",
-    "ScaleX": 1,
-    "ScaleY": 1,
-    "Flip": false
-}
