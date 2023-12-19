@@ -18,7 +18,7 @@
     "NodeEventTier": "T0",
     "NodeGround": "None",
     "NodeRequirement": "",
-    "NodesConnected": ["sen_44"],
+    "NodesConnected": ["sen_44","sen_1","sen_2","sen_3"],
     "NodesConnectedRequirement": [],
     "NodeZone": "Senenthia",
     "TravelDestination": false,
