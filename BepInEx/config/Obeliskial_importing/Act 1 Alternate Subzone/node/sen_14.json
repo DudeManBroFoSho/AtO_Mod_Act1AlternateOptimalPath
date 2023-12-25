@@ -18,7 +18,7 @@
     "NodeEventTier": "T0",
     "NodeGround": "None",
     "NodeRequirement": "",
-    "NodesConnected": ["sen_18", "sen_600"],
+    "NodesConnected": ["sen_18","sen_600"],
     "NodesConnectedRequirement": ["{\n   \"NodeData\": \"sen_600\",\n   \"ConnectionRequirement\": \"act1altpath\",\n   \"ConnectionIfNotNode\": \"\"\n}"],
     "NodeZone": "Senenthia",
     "TravelDestination": false,

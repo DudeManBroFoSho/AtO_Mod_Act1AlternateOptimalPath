@@ -18,11 +18,11 @@
     "NodeEventTier": "T0",
     "NodeGround": "None",
     "NodeRequirement": "act1altpath",
-    "NodesConnected": ["sen_31"],
+    "NodesConnected": ["sen_21"],
     "NodesConnectedRequirement": [],
     "NodeZone": "Senenthia",
     "TravelDestination": true,
     "VisibleIfNotRequirement": true,
-    "medsPosX": 4.29,
-    "medsPosY": -3.5
+    "medsPosX": 0.24,
+    "medsPosY": -4.3064
 }
